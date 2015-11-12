@@ -1,0 +1,15 @@
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bin\Debug\ReverseMap\resources.pri
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bin\Debug\AppxManifest.xml
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bin\Debug\trial1.build.appxrecipe
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\priconfig.xml
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\priconfig.xml.intermediate
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\layout.resfiles
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\layout.resfiles.intermediate
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\resources.resfiles
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\resources.resfiles.intermediate
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\pri.resfiles
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\pri.resfiles.intermediate
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\qualifiers.txt
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\qualifiers.txt.intermediate
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bld\Debug\ProjectArchitectures.txt

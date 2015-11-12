@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>trial1</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- trial1 references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <h1 class="headerClass">Thank you for using LayoverBox!</h1>
+    <div class="mainContent">
+        <p>If you have any questions please call 6047777777</p>
+        <button id="dropoffButton">1. Drop Off a Package</button>
+        <button id="pickupButton">2. Pick Up a Package</button>
+        <p>Please enter the hashtag code</p>
+        <input id="hashtagCodeInput" type="text" />
+        <button id="submitButton">Submit</button>
+        <div id="greetingOutput"></div>
+        <label for="ratingControlDiv">
+            Rate this greeting:
+        </label>
+        <div id="ratingControlDiv" data-win-control="WinJS.UI.Rating"></div>
+    </div>
+</body>
+</html>

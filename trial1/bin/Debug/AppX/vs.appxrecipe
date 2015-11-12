@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>5IRL8YXPBUD3PKQ</Machine>
+    <WindowsUser>flame_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3438a089-cad1-4c0b-b8a2-991dd4238138</PackageIdentityName>
+    <RegisteredManifestChecksum>3020CA88907F964375730C49F027B160064F4EA787B8FC3E1AB5EAF7E413131B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3438a089-cad1-4c0b-b8a2-991dd4238138_1.0.0.0_neutral__p2mx4wfwqd52e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3438a089-cad1-4c0b-b8a2-991dd4238138_p2mx4wfwqd52e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3438a089-cad1-4c0b-b8a2-991dd4238138</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=flame_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-11T19:22:41.197</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-11-11T23:59:20.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T05:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T05:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T05:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T05:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-11-12T00:50:07.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-11-11T21:14:21.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CapstoneProject\WindowsApp\JavaScriptTrial\App1\trial1\trial1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-11T19:22:40.552</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
